@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ab40275533b64014cb46e529958c4a6f
+guid: efc4c5c27488c1e4aae41c9a660f3535
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3202592003822094260
-    second: bacio_mama_buonanotte_0
+      213: -713202965203378598
+    second: img_logo_menu_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bacio_mama_buonanotte_0
+      name: img_logo_menu_0
       rect:
         serializedVersion: 2
         x: 0
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b7825c9574e17c20800000000000000
-      internalID: 3202592003822094260
+      spriteID: a5e1c4e8ea13a16f0800000000000000
+      internalID: -713202965203378598
       vertices: []
       indices: 
       edges: []
@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      img_logo_menu_0: -713202965203378598
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
